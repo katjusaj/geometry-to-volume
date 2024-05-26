@@ -6,6 +6,8 @@ The developed tool uses a process of ray casting to convert the selected region 
 
 ## Instructions
 
+install all linked libraries using terminal
+
 python obj2vol.py
 
 input resolution (64, 128, 256)
