@@ -6,9 +6,22 @@ The developed tool uses a process of ray casting to convert the selected region 
 
 ## Instructions
 
-python obj2vol.python
+python obj2vol.py
 
 input resolution (64, 128, 256)
 
 input coordinates for conversion (minimum and maximum in all 3 dimensions)
+
+
+## What is included
+
+main python script obj2vol.py
+example model with material and texture image
+results in RAW and HDF5 file formats
+PDF report
+
+
+
+
+
 
