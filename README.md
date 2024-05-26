@@ -15,10 +15,14 @@ input coordinates for conversion (minimum and maximum in all 3 dimensions)
 
 ## What is included
 
-main python script obj2vol.py
-example model with material and texture image
-results in RAW and HDF5 file formats
-PDF report
+* main python script obj2vol.py
+
+* example model with material and texture image
+
+* results in RAW and HDF5 file formats
+
+* PDF report
+
 
 
 
