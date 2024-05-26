@@ -26,6 +26,10 @@ input coordinates for conversion (minimum and maximum in all 3 dimensions)
 
 * PDF report
 
+## View RAW/HDF5 files
+
+For visualization you can use https://lgm.fri.uni-lj.si/ziga/vpt/, where you upload the resulted .RAW file and input the dimensions. The volume can be viewed using Local ambient occlusion.
+
 
 
 
