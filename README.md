@@ -9,7 +9,7 @@ The developed tool uses a process of ray casting to convert the selected region 
 install all imported libraries using terminal
 
 Run program:
-$ python obj2vol.py
+$ python obj2vol-raycast.py
 
 input resolution (64, 128, 256)
 
