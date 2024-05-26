@@ -10,5 +10,5 @@ python obj2vol.python
 
 input resolution (64, 128, 256)
 
-input coordinates for convertion (minimum and maximum in all 3 dimensions)
+input coordinates for conversion (minimum and maximum in all 3 dimensions)
 
